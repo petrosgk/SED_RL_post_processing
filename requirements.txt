@@ -1,0 +1,4 @@
+tensorforce
+sed_eval
+scipy
+numpy
