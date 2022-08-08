@@ -37,7 +37,7 @@ _audio_file_0.txt_
 ### Training
 
 ```shell
-python run.py --path_to_data "/path/to/training/data" --path_to_reference_data "/path/to/reference/data" --output_dir "/path/to/output/directory" --name "experiment_name"
+python src/run.py --path_to_data "/path/to/training/data" --path_to_reference_data "/path/to/reference/data" --output_dir "/path/to/output/directory" --name "experiment_name"
 ```
 
 ### Citation
