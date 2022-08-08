@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ### Data preparation
 
-Training data should be the raw class probability outputs of a Sound Event Detector, in ```.npy``` format. The class probability outputs should be in the _(0.0, 1.0)_ range and be 1 vector of length ```num_classes``` per frame.
+Training data should be the raw class probability outputs of an Audio Event Detector, in ```.npy``` format. The class probability outputs should be in the _(0.0, 1.0)_ range and be 1 vector of length ```num_classes``` per frame.
 
 An example for 5 classes:
 
