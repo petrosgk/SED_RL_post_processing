@@ -1,6 +1,6 @@
 ## Improving Post-processing of Audio Event Detectors using Reinforcement Learning (IEEE Access)
 
-Code for our paper titled _Improving Post-processing of Audio Event Detectors using Reinforcement Learning_, accepted in the IEEE Access journal.
+Code for our paper titled [Improving Post-processing of Audio Event Detectors using Reinforcement Learning](https://ieeexplore.ieee.org/document/9853543), published in the _IEEE Access_ journal.
 
 ### Installation
 
