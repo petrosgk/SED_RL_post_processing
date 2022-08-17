@@ -36,10 +36,24 @@ _audio_file_0.txt_
 
 ### Training
 
+After preparing training data and reference data, you can call the training script as follows:
+
 ```shell
 python src/run.py --path_to_data "/path/to/training/data" --path_to_reference_data "/path/to/reference/data" --output_dir "/path/to/output/directory" --name "experiment_name"
 ```
 
 ### Citation
 
-Citation to be added after publication.
+Please cite this work as:
+
+```
+@ARTICLE{9853543,
+  author={Giannakopoulos, Petros and Pikrakis, Aggelos and Cotronis, Yannis},
+  journal={IEEE Access}, 
+  title={Improving Post-Processing of Audio Event Detectors Using Reinforcement Learning}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={84398-84404},
+  doi={10.1109/ACCESS.2022.3197907}}
+```
